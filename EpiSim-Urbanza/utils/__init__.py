@@ -1,1 +1,3 @@
-# Utils package for Day 1
+# Utilities package
+
+

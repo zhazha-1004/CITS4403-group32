@@ -5,11 +5,14 @@ Core Innovation: The Spatiotemporal-Behavioral Hybrid Model represents a major b
 
 ## Group Members
 
-| UWA ID   | Name                            | GitHub Username |
-| -------- | ------------------------------- | --------------- |
-| 24351013 | Haoran xu                       | raxfxmx-svg     |
-| 24350939 | Jianing Wang                    | zhazha-1004     |
-
+| UWA ID   | Name                            | GitHub Username |Main Contribution                                                               |
+| -------- | ------------------------------- | --------------- |------------------------------------------------------------------------------- |
+| 24351013 | Haoran xu                       | raxfxmx-svg     |Responsible for model design and results analysis                               |
+|          |                                 |                 |constructing and optimizing hybrid spatial-behavioral models                    |
+|          |                                 |                 |completing data analysis and report writing                                     |
+| 24350939 | Jianing Wang                    | zhazha-1004     |Responsible for code implementation and visualization                           |
+|          |                                 |                 |completing simulation scripts                                                   |
+|          |                                 |                 |chart generation, and documentation organization                                |
 
 ## 🚀 Quick Start Guide
 

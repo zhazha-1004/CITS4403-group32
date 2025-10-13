@@ -3,6 +3,14 @@ EpiSim-Urbanza-zhazha  is a comprehensive epidemiological modeling framework tha
 
 Core Innovation: The Spatiotemporal-Behavioral Hybrid Model represents a major breakthrough, evolving from traditional uniform SIR models to dynamically adaptive models accounting for spatial heterogeneity.
 
+## Group Members
+
+| UWA ID   | Name                            | GitHub Username |
+| -------- | ------------------------------- | --------------- |
+| 24351013 | Haoran xu                       | raxfxmx-svg     |
+| 24350939 | Jianing Wang                    | zhazha-1004     |
+
+
 ## 🚀 Quick Start Guide
 
 ### Environment Setup

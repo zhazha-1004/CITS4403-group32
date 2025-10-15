@@ -14,6 +14,8 @@ Core Innovation: The Spatiotemporal-Behavioral Hybrid Model represents a major b
 |          |                                 |                 |completing simulation scripts                                                   |
 |          |                                 |                 |chart generation, and documentation organization                                |
 
+Note:Due to certain factors, Haoran Xu's content was uploaded on his behalf by Wang Jianing.
+
 ## 🚀 Quick Start Guide
 
 ### Environment Setup
